@@ -1,0 +1,8 @@
+*.o
+*.dSYM/
+.DS_Store
+game
+main
+# SFML is a dependency, not vendored source
+include/
+lib/
